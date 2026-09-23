@@ -38,7 +38,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 ![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 🗄️ Ingeniería de Datos, Bodega de Datos & BI
-![SQL Server](https://img.shields.io/badge/SQL_Server-Data_Warehouse-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL y PostgreSQL](https://img.shields.io/badge/SQL_Server-Data_Warehouse-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![ETL / ELT Pipelines](https://img.shields.io/badge/ETL_/_ELT-Pipelines-00599C?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX_|_Star_Schema-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-Big_Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
