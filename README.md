@@ -24,13 +24,13 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ## 🔬 Proyecto Integrador de Grado (Tesis de Maestría — Universidad del Valle)
 
-> ### 🧠 Detección de Enfermedad Neurológica Crónica por Neuroimagen (DTI)
-> **Desarrollo de un Algoritmo de Clasificación Binaria para Sistemas de Soporte a la Decisión Clínica (CDSS)**
-> 
-> * 🎯 **Problema Clínico**: Alta variabilidad en el diagnóstico y planeación prequirúrgica de patologías neurológicas crónicas mediante inspección visual subjetiva de la sustancia blanca cerebral.
-> * 💡 **Solución Tecnológica**: Pipeline de **Deep Learning** con Redes Neuronales Convolucionales (`CNNs` - `ResNet50`, `EfficientNet`, `Transfer Learning`) entrenado sobre **560 unidades de tractografía**.
-> * 🔬 **Biomarcadores Analizados**: Extracción cuantitativa de Fracción de Anisotropía (`FA`), Difusividad Media (`MD`) y Radial (`RD`) en 8 tractos cerebrales clave del lenguaje hablado.
-> * 📈 **Metodología & Alcance**: Metodología **CRISP-DM** para entregar un Sistema de Soporte a la Decisión Clínica (**CDSS**) validado para un centro médico del suroccidente colombiano.
+### 🧠 Detección de Enfermedad Neurológica Crónica por Neuroimagen (DTI)
+**Desarrollo de un Algoritmo de Clasificación Binaria para Sistemas de Soporte a la Decisión Clínica (CDSS)**
+
+* 🎯 **Problema Clínico**: Alta variabilidad en el diagnóstico y planeación prequirúrgica de patologías neurológicas crónicas mediante inspección visual subjetiva de la sustancia blanca cerebral.
+* 💡 **Solución Tecnológica**: Pipeline de **Deep Learning** con Redes Neuronales Convolucionales (`CNNs` - `ResNet50`, `EfficientNet`, `Transfer Learning`) entrenado sobre **560 unidades de tractografía**.
+* 🔬 **Biomarcadores Analizados**: Extracción cuantitativa de Fracción de Anisotropía (`FA`), Difusividad Media (`MD`) y Radial (`RD`) en 8 tractos cerebrales clave del lenguaje hablado.
+* 📈 **Metodología & Alcance**: Metodología **CRISP-DM** para entregar un Sistema de Soporte a la Decisión Clínica (**CDSS**) validado para un centro médico del suroccidente colombiano.
 
 ---
 
