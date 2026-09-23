@@ -23,6 +23,33 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
+
+Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero.
+
+Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Arquitectura de Datos** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
+
+---
+
+### 🌟 Pilares de Impacto & Especialización
+
+* 🏆 **Rendimiento Académico Destacado:**  
+  Promedio acumulado de **4.46 / 5.0** (Sem. I: 4.36 · Sem. II: 4.54) en la *Maestría en Analítica e Inteligencia de Negocios (Universidad del Valle)*.  
+  - 🥇 **5.0 / 5.0** — Procesamiento del Lenguaje Natural con Deep Learning  
+  - 🥈 **4.8 / 5.0** — Introducción a la Programación para Analítica  
+  - 🥉 **4.7 / 5.0** — Trabajo Integrador | **4.6 / 5.0** — Ingeniería de Datos  
+
+* 🧠 **Machine Learning, Deep Learning & Neuroimagen (Tesis de Maestría):**  
+  Investigador y desarrollador principal de un pipeline de clasificación binaria basado en **CNNs (ResNet, Transfer Learning)** para la detección de Enfermedad Neurológica Crónica mediante **Resonancia Magnética con Tensores de Difusión (DTI/Tractografía)**. Especialista en la extracción y modelado de biomarcadores microestructurales (*Fracción de Anisotropía, Difusividad Media/Radial*) en tractos del lenguaje para Sistemas de Soporte a la Decisión Clínica (**CDSS**).
+
+* 🏬 **Liderazgo en Analítica & Operaciones | Carvajal Espacios S.A.S BIC (Mepal):**  
+  - **Transformación Digital:** Diseñé e implementé la plataforma de planta (`planeacion.plantamepal.com`), centralizando infraestructura de Analítica Descriptiva (OEE, P&L, trazabilidad WIP) con **Power BI y SQL Server**, logrando una **reducción del 70% en tiempos de reporte**.  
+  - **Fase Predictiva:** Actualmente lidero la conceptualización y despliegue de modelos de Machine Learning aplicados a la optimización de inventarios, pronóstico de demanda y secuenciación operativa.
+
+* ⚡ **Dirección Operativa & Automatización Masiva | IQ Outsourcing S.A.S:**  
+  - **Gestión a Gran Escala:** Coordiné operaciones regionales de Transformación Digital y BPO para cuentas de alto volumen (*Bancolombia, Nueva EPS, Sanitas, TigoUne*), liderando equipos de hasta **400 colaboradores**.  
+  - **Eficiencia y Cumplimiento:** Integración de pipelines de datos (MySQL, PostgreSQL) y automatización con RPA y KOFAX, logrando una **reducción del 99.9% en riesgos de multas operativas** y cumplimiento sostenido de **SLAs >98%**.
+
+
 ## 🔬 Proyecto Real de Analítica Avanzada — Tesis de Maestría (Univalle)
 
 
