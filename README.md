@@ -13,7 +13,7 @@
 
 ## 🚀 Perfil Profesional & Propuesta de Valor
 
-Estratega de operaciones, analítica avanzada e ingeniería de datos con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero. Con experiencia dirigiendo operaciones masivas de hasta 400 colaboradores y plantas de alta complejidad, mi enfoque integra la Excelencia Operacional (Lean Manufacturing, Six Sigma, S&OP y gestión de P&L) con soluciones tecnológicas de alto impacto.
+Estratega de operaciones, analítica avanzada e ingeniería de datos con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero. Con experiencia dirigiendo operaciones masivas de hasta 400 colaboradores y plantas de alta complejidad, mi enfoque integra la Excelencia Operacional (Lean Manufacturing, Six Sigma, S&OP y gestión de P&L) con soluciones analíticas de alto impacto.
 
 Mi propuesta de valor radica en la convergencia entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Datos** (ETL/ELT, Data Warehousing, SQL Server) orientada a maximizar la eficiencia operativa, la rentabilidad financiera y la precisión clínica.
 
