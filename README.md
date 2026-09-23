@@ -17,8 +17,8 @@ Estratega de analítica avanzada, ingeniería de datos y operaciones con más de
 Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanzada (Machine Learning, Deep Learning, NLP/LLMs y Estadística)** y una sólida arquitectura de **Ingeniería de Datos (ETL/ELT, Bodegas de Datos, SQL Server)** orientada al impacto de negocio:
 
 - 🧠 **Machine Learning, Estadística Avanzada & PLN**: Experto en el desarrollo e implementación de modelos de **Machine Learning Supervisado y No Supervisado** (Clasificación, Regresión, Clustering, Reducción de Dimensionalidad), **Estadística Avanzada y Métodos Cuantitativos** (Series de Tiempo, Inferencia, Optimización y Simulación Montecarlo) y **Procesamiento de Lenguaje Natural (PLN) mediante Deep Learning** (Transformers, BERT, LLMs, análisis de sentimientos y extracción de información no estructurada).
-- 🏬 **Actualmente en Carvajal Espacios S.A.S BIC (Mepal)**: Como **Líder de Planeación**, diseñé e implementé la plataforma digital de planta (`planeacion.plantamepal.com`), desplegando infraestructura de **Analítica Descriptiva** (OEE, P&L, trazabilidad WIP en Power BI y SQL Server) con una reducción del **70%** en tiempos de reporte. Actualmente lidero la **implementación de modelos predictivos y de Machine Learning** para optimización de inventarios, pronóstico de demanda y comportamiento operacional.
-- ⚡ **Experiencia en IQ Outsourcing S.A.S**: Como **Coordinador Regional de Producción y Líder de Proceso**, administré proyectos a gran escala de **Transformación Digital y BPO** para cuentas de alto volumen (Bancolombia, NuevaEPS, Sanitas, TigoUne). Dirigí equipos de hasta **400 colaboradores**, integrando pipelines de datos con SQL Server, automatización RPA y KOFAX, reduciendo los riesgos de multas operativas en un **99.9%** y asegurando SLAs superiores al **98%**.
+- 🏬 **Actualmente en Carvajal Espacios S.A.S BIC (Mepal)**: Como **Líder de Planeación**, diseñé e implementé la plataforma digital de planta (`planeacion.plantamepal.com`), desplegando infraestructura de **Analítica Descriptiva** (OEE, P&L, trazabilidad WIP en Power BI, MySQL y PostgreSQLr) con una reducción del **70%** en tiempos de reporte. Actualmente lidero la **implementación de modelos predictivos y de Machine Learning** para optimización de inventarios, pronóstico de demanda y comportamiento operacional.
+- ⚡ **Experiencia en IQ Outsourcing S.A.S**: Como **Coordinador Regional de Producción y Líder de Proceso**, administré proyectos a gran escala de **Transformación Digital y BPO** para cuentas de alto volumen (Bancolombia, NuevaEPS, Sanitas, TigoUne). Dirigí equipos de hasta **400 colaboradores**, integrando pipelines de datos con MySQL y PostgreSQL, automatización RPA y KOFAX, reduciendo los riesgos de multas operativas en un **99.9%** y asegurando SLAs superiores al **98%**.
 
 ---
 
@@ -38,7 +38,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 ![R](https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 🗄️ Ingeniería de Datos, Bodega de Datos & BI
-![MySQL y PostgreSQL](https://img.shields.io/badge/SQL_Server-Data_Warehouse-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL y PostgreSQL](https://img.shields.io/badge/MySQL_y_PostgreSQL-Data_Warehouse-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![ETL / ELT Pipelines](https://img.shields.io/badge/ETL_/_ELT-Pipelines-00599C?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX_|_Star_Schema-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-Big_Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
