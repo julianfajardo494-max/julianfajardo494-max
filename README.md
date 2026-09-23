@@ -65,26 +65,6 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ## 💼 Experiencia Destacada
 
-### 🏭 Carvajal Espacios S.A.S BIC (Mepal)
-`Feb 2022 – Presente` | **Líder de Planeación & Programación de Planta** | *Palmira - Cali, Colombia*
-
-* 🚀 **Analítica Predictiva**: Liderazgo en la transición de analítica descriptiva a modelos de **Machine Learning** y optimización estocástica para pronóstico de demanda e inventarios.
-* 🗄️ **Bodega de Datos & Plataforma Web**: Diseño e implementación de la Bodega de Datos de planta y desarrollo de la plataforma operacional [`planeacion.plantamepal.com`](https://planeacion.plantamepal.com) (`SQL Server` + `Power BI`) para control de P&L, OEE y trazabilidad WIP.
-* ⚡ **Eficiencia Operativa**: Reducción del **70%** en el tiempo de generación de informes para la toma de decisiones gerenciales.
-
----
-
-### ⚡ IQ Outsourcing S.A.S
-`Mar 2012 – Ago 2019` | **Coordinador Regional de Producción & Líder de Proceso** | *Medellín, Cali, Bucaramanga*
-
-* 🌐 **Transformación Digital & BPO a Gran Escala**: Dirección de megaproyectos de automatización y gestión documental para cuentas clave (**Bancolombia, NuevaEPS, Sanitas, TigoUne**).
-* 👥 **Liderazgo Operativo**: Dirección estratégica de equipos multidisciplinarios de hasta **400 colaboradores** en esquemas de alta disponibilidad (24/7).
-* 🔄 **Pipelines de Datos & Automatización**: Integración de pipelines de datos con `SQL Server`, `PostgreSQL`, `MySQL`, `RPA` y procesamiento inteligente de documentos (`KOFAX`).
-* 🎯 **Métricas de Impacto**: Reducción del **99.9%** en riesgos financieros por sanciones u omisiones operativas y cumplimiento sostenido de SLAs **> 98%**.
-
----
-
-
 
 ### 🏭 Carvajal Espacios S.A.S BIC (Mepal)
 `Feb 2022 – Presente` | **Líder de Planeación & Programación de Planta** | *Palmira - Cali, Colombia*
@@ -170,47 +150,6 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 </details>
 
-<details open>
-<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **Inteligencia de Negocios** | **4.6 / 5.0** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Prog. para Analítica** | **4.8 / 5.0** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Gestión de Datos** | **4.3 / 5.0** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Seminario de Analítica** | **4.4 / 5.0** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Métodos Cuantitativos** | **3.9 / 5.0** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-
-</details>
-
-<details open>
-<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Trabajo Integrador I** | **4.7 / 5.0** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Toma de Decisiones** | **4.4 / 5.0** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-
-</details>
-
-<details open>
-<summary><b>3️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
-<br>
-
-| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización BD | `SQL Server` `MongoDB` `Redis` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Pipeline Real-Time | `Kafka` `Event Streams` `Python` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard Riesgo | `Credit Scoring` `Financial ML` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-
-</details>
 ---
 
 ## 📬 Contacto Profesional
