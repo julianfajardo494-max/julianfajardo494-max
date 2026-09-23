@@ -26,7 +26,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  **TÍTULO**: Desarrollo de un Algoritmo de Clasificación Binaria para la Detección               │ 
+│    TÍTULO: Desarrollo de un Algoritmo de Clasificación Binaria para la Detección                 │ 
 │    de Enfermedad Neurológica Crónica basada en Neuroimagen de Resonancia Magnética (DTI)         │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ • Problema: Variabilidad en el diagnóstico y planeación prequirúrgica de patologías              │
