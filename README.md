@@ -177,3 +177,137 @@ Mi propuesta de valor radica en la convergencia entre la **Ciencia de Datos Avan
 
 
 
+
+
+# 🎓 Maestría en Analítica e Inteligencia de Negocios — Universidad del Valle
+### 📊 Repositorio Central de Portafolio Técnico, Investigación & Arquitectura de Datos (2024 – 2026)
+
+**Autor**: [Julián Andrés Fajardo Salcedo](https://linkedin.com/in/tu-perfil) | **Candidato a Magíster** | **Ingeniero Industrial**  
+**Institución**: Universidad del Valle (Cali, Colombia) — Escuela de Ingeniería de Sistemas (EISC) e Ingeniería Industrial  
+**Promedio Acumulado**: 🏆 **4.46 / 5.0** (100% créditos aprobados) | **Evolución**: Semestre I (4.36) ➔ Semestre II (4.54)
+
+---
+
+## 📌 Visión del Repositorio (Estructura Orientada a Soluciones & Dominios)
+
+Este repositorio está estructurado siguiendo los estándares de la industria de tecnología (**Domain & Solution-Oriented Architecture**). A diferencia de un archivo puramente académico organizado por aulas o semestres, este código se agrupa por **capacidades técnicas avanzadas, motores de solución y dominios de aplicación de negocio**:
+
+- 🧠 **HealthTech & Deep Learning**: Redes Neuronales Convolucionales (`CNNs`, `ResNet50`) aplicadas a neuroimagen médica (`DTI`/Tractografía).
+- 🗣️ **NLP & LLMs**: Procesamiento de Lenguaje Natural avanzado con `Transformers`, `BERT` y `HuggingFace`.
+- ⚡ **Big Data & Data Engineering**: Pipelines distribuidos en `PySpark`, `Hadoop`, `SQL Server`, `PostgreSQL` y arquitecturas `Kafka`.
+- 📊 **Business Intelligence & MLOps**: Modelado dimensional, Dashboards gerenciales (`Power BI`) y gobierno de datos.
+- 🎯 **Prescriptive & Predictive ML**: Modelos predictivos (`XGBoost`, `SHAP`), simulación `Montecarlo` y optimización con `Optuna`.
+
+---
+
+## 🗂️ Estructura de Directorios del Repositorio
+
+```text
+Maestria-Analitica-BI/
+├── 📄 README.md                                     # Hub Central & Matriz de Mapeo Académico
+├── 📄 PLANTILLA-LABORATORIO-STAR.md                 # Guía estándar de documentación
+│
+├── 📁 01-Deep-Learning-HealthTech-Tesis/            # 🧠 Tesis DTI, ResNet50, Tractografía, CDSS [Notas: 4.7 / 5.0]
+├── 📁 02-NLP-LLM-Text-Analytics/                    # 🗣️ Transformers, BERT, HuggingFace, PyTorch [Nota: 5.0 ⭐]
+├── 📁 03-Data-Engineering-BigData/                  # ⚡ PySpark, Data Warehouse, ETL, Streaming [Notas: 4.6, 4.3]
+├── 📁 04-Machine-Learning-Predictive-Analytics/     # 🧠 XGBoost, Random Forest, SHAP, Risk Models [Nota: 4.0]
+├── 📁 05-Prescriptive-Analytics-Optimization/       # 🎯 Simulación Montecarlo, Optuna, ARIMA [Notas: 4.4, 3.9]
+├── 📁 06-BI-Data-Governance-MLOps/                  # 📊 Power BI, DAX, EDA Pipeline, MLOps [Notas: 4.8, 4.6, 4.4]
+└── 📁 07-Financial-Analytics-Credit-Scoring/        # 📈 Credit Scoring, Scorecards & Financial ML
+```
+
+---
+
+## 🔬 Proyecto Integrador de Grado (Tesis Principal - HealthTech)
+
+> ### 🧠 Detección de Enfermedad Neurológica Crónica por Neuroimagen (DTI) *(Nota: 4.7 / 5.0)*
+> **Desarrollo de un Algoritmo de Clasificación Binaria para Sistemas de Soporte a la Decisión Clínica (CDSS)**
+> 
+> * 🎯 **Problema Clínico**: Alta variabilidad en el diagnóstico y planeación prequirúrgica de patologías neurológicas crónicas mediante inspección visual subjetiva de la sustancia blanca cerebral.
+> * 💡 **Solución Tecnológica**: Pipeline de **Deep Learning** con Redes Neuronales Convolucionales (`CNNs` - `ResNet50`, `EfficientNet`, `Transfer Learning`) entrenado sobre **560 unidades de tractografía**.
+> * 🔬 **Biomarcadores Analizados**: Extracción cuantitativa de Fracción de Anisotropía (`FA`), Difusividad Media (`MD`) y Radial (`RD`) en 8 tractos cerebrales clave del lenguaje hablado.
+> * 📈 **Metodología & Alcance**: Metodología **CRISP-DM** para entregar un Sistema de Soporte a la Decisión Clínica (**CDSS**) validado para un centro médico del suroccidente colombiano.
+>
+> 🔗 [Ver Repositorio Completo de la Tesis](./01-Deep-Learning-HealthTech-Tesis/)
+
+---
+
+## 🗺️ Matriz de Mapeo Académico — Universidad del Valle
+*Asociación entre la Malla Curricular de la Maestría y los Módulos de Código del Repositorio*
+
+### 1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos
+**Promedio Semestral**: **4.36 / 5.0** | **Créditos Aprobados**: 15 / 15
+
+| Asignatura | Calificación | Proyecto / Entregable Principal | Módulo en el Repositorio |
+| :--- | :---: | :--- | :--- |
+| **Programación para Analítica** | **4.8 / 5.0** | Framework EDA Automatizado en Python | [`/06-BI-Data-Governance-MLOps/`](./06-BI-Data-Governance-MLOps/) |
+| **Inteligencia de Negocios** | **4.6 / 5.0** | Data Mart & Dashboard KPIs (`DAX`) | [`/06-BI-Data-Governance-MLOps/`](./06-BI-Data-Governance-MLOps/) |
+| **Seminario de Analítica** | **4.4 / 5.0** | MLOps & Blueprint de Arquitectura | [`/06-BI-Data-Governance-MLOps/`](./06-BI-Data-Governance-MLOps/) |
+| **Gestión de Datos** | **4.3 / 5.0** | Bodega de Datos & Pipelines ETL SQL | [`/03-Data-Engineering-BigData/`](./03-Data-Engineering-BigData/) |
+| **Métodos Cuantitativos** | **3.9 / 5.0** | Forecast ARIMA & Series de Tiempo | [`/05-Prescriptive-Analytics-Optimization/`](./05-Prescriptive-Analytics-Optimization/) |
+
+---
+
+### 2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones
+**Promedio Semestral**: **4.54 / 5.0** | **Créditos Aprobados**: 20 / 20
+
+| Asignatura | Calificación | Proyecto / Entregable Principal | Módulo en el Repositorio |
+| :--- | :---: | :--- | :--- |
+| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Clasificador de Texto & LLM Documental | [`/02-NLP-LLM-Text-Analytics/`](./02-NLP-LLM-Text-Analytics/) |
+| **Trabajo Integrador I (Tesis)** | **4.7 / 5.0** | Pipeline CNNs Neuroimagen DTI | [`/01-Deep-Learning-HealthTech-Tesis/`](./01-Deep-Learning-HealthTech-Tesis/) |
+| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en PySpark | [`/03-Data-Engineering-BigData/`](./03-Data-Engineering-BigData/) |
+| **Toma de Decisiones** | **4.4 / 5.0** | Prescripción & Optimización Optuna | [`/05-Prescriptive-Analytics-Optimization/`](./05-Prescriptive-Analytics-Optimization/) |
+| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn & Explicabilidad SHAP | [`/04-Machine-Learning-Predictive-Analytics/`](./04-Machine-Learning-Predictive-Analytics/) |
+
+---
+
+### 3️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio
+*Semestre en curso / Finalización de Tesis*
+
+| Asignatura | Proyecto / Entregable Principal | Módulo en el Repositorio |
+| :--- | :--- | :--- |
+| **Trabajo Integrador II** | 🎓 **Tesis Final: CDSS Clínico DTI** | [`/01-Deep-Learning-HealthTech-Tesis/`](./01-Deep-Learning-HealthTech-Tesis/) |
+| **Analítica en Salud** | Modelo de Riesgo & Supervivencia Cox | [`/04-Machine-Learning-Predictive-Analytics/`](./04-Machine-Learning-Predictive-Analytics/) |
+| **Admin. Bases de Datos** | Query Tuning SQL Server, MongoDB, Redis | [`/06-BI-Data-Governance-MLOps/`](./06-BI-Data-Governance-MLOps/) |
+| **Técnicas Avanzadas** | Event-Driven Streaming Apache Kafka | [`/03-Data-Engineering-BigData/`](./03-Data-Engineering-BigData/) |
+| **Analítica Financiera** | Credit Scoring & Evaluador P&L | [`/07-Financial-Analytics-Credit-Scoring/`](./07-Financial-Analytics-Credit-Scoring/) |
+
+---
+
+## 🛠️ Entorno de Desarrollo & Instalación
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/tu-usuario/Maestria-Analitica-BI.git
+cd Maestria-Analitica-BI
+
+# 2. Crear entorno virtual
+python3 -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# 3. Instalar requerimientos
+pip install -r requirements.txt
+```
+
+---
+
+## 📝 Documentación de Laboratorios (Método STAR)
+
+Cada módulo individual contiene un archivo `README.md` estructurado según el estándar **STAR**:
+- **S**ituación (Desafío de negocio/clínico)
+- **T**area (Objetivos y métricas)
+- **A**cción (Algoritmos, pipeline y código)
+- **R**esultados (Métricas de impacto)
+
+---
+
+## 📬 Contacto Professional
+
+* **Autor**: Julián Andrés Fajardo Salcedo
+* **Correo Electrónico**: [andresfajardosalcedo@gmail.com](mailto:andresfajardosalcedo@gmail.com)
+* **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+* **Plataforma Operativa Mepal**: [planeacion.plantamepal.com](https://planeacion.plantamepal.com)
+
+
+
+
