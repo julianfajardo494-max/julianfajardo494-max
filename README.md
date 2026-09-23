@@ -95,45 +95,57 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
-## 📚 Portafolio de Proyectos  — Maestría en Analítica e Inteligencia de Negocios
-*Universidad del Valle (2024 – 2026)*
+## 📚 Portafolio de Proyectos — Maestría en Analítica e Inteligencia de Negocios
+*Universidad del Valle | 2024 – 2026*
+
+---
+
+### 🌟 Proyecto Destacado de Grado (Tesis)
+| Proyecto | Descripción & Algoritmos | Entregable / Impacto | Repositorio |
+| :--- | :--- | :--- | :---: |
+| 🎓 **Tesis de Maestría** | **Detección de Enfermedad Neurológica Crónica por DTI**<br>Redes Neuronales Convolucionales (ResNet50, Transfer Learning), Tractografía (FA, MD, RD) y Metodología CRISP-DM. | 🏥 **CDSS Clínico**<br>*(Soporte a Decisión)* | [![Ver Código](https://img.shields.io/badge/Código-Ver_Tesis-008080?style=flat-square&logo=github)](./) |
+
+---
 
 <details open>
 <summary><b>01️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos</b></summary>
+<br>
 
-| Materia | Proyecto / Laboratorio Destacado | Enfoque Técnico & Algoritmos | Repositorio |
-| :--- | :--- | :--- | :---: |
-| **Métodos Cuantitativos** | Modelación Estadística y Series de Tiempo | ARIMA, Holt-Winters, Pruebas de Hipótesis (R) | [Ver Repositorio](./) |
-| **Inteligencia de Negocios** | Modelo Copo de Nieve / Estrella & Dashboards | Power BI, DAX Avanzado, Data Marts | [Ver Repositorio](./) |
-| **Gestión de Datos** | Diseño de Bodega de Datos e Ingeniería ETL | MySQL , PostgreSQL, Normalización | [Ver Repositorio](./) |
-| **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | Python, Pandas, NumPy, Seaborn | [Ver Repositorio](./) |
-| **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | Research, Markdown, Best Practices | [Ver Repositorio](./) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **Métodos Cuantitativos** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [📂 Ver Repo](./) |
+| **Inteligencia de Negocios** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [📂 Ver Repo](./) |
+| **Gestión de Datos** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Architecture Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [📂 Ver Repo](./) |
+| **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA Automatizado | `Python` `Pandas` `Seaborn` | [📂 Ver Repo](./) |
+| **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | 📑 Documento de Arquitectura | `MLOps` `Markdown` `CI/CD` | [📂 Ver Repo](./) |
 
 </details>
 
 <details open>
 <summary><b>02️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones</b></summary>
+<br>
 
-| Materia | Proyecto / Laboratorio Destacado | Enfoque Técnico & Algoritmos | Repositorio |
-| :--- | :--- | :--- | :---: |
-| **Minería de Datos** | Modelos Supervisados y No Supervisados | Random Forest, XGBoost, K-Means, SHAP | [Ver Repositorio](./) |
-| **PLN con Deep Learning** | Clasificación y Extracción de Texto | Transformers, BERT, HuggingFace, PyTorch | [Ver Repositorio](./) |
-| **Toma de Decisiones** | Prescripción y Optimización bajo Incertidumbre | Simulación Montecarlo, Optuna, SciPy | [Ver Repositorio](./) |
-| **Visión Computacional** | Detección de Patrones e Inspección Visual | CNNs, YOLO, OpenCV, Deep Learning | [Ver Repositorio](./) |
-| **Ingeniería de Big Data** | Procesamiento Distribuido de Datos Masivos | PySpark, Hadoop, Arquitecturas Lambda | [Ver Repositorio](./) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **Minería de Datos** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [📂 Ver Repo](./) |
+| **PLN con Deep Learning** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [📂 Ver Repo](./) |
+| **Toma de Decisiones** | Optimización bajo Incertidumbre | 🎯 Modelo de Prescripción | `Montecarlo` `Optuna` `SciPy` | [📂 Ver Repo](./) |
+| **Visión Computacional** | Inspección Automatizada de Imágenes | 👁️ Detector de Objetos | `YOLO` `CNNs` `OpenCV` | [📂 Ver Repo](./) |
+| **Ingeniería de Big Data** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [📂 Ver Repo](./) |
 
 </details>
 
 <details open>
-<summary><b>03️⃣ Semestre 3 — Especialización Sectorial & Proyecto Capstone (Tesis)</b></summary>
+<summary><b>03️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
+<br>
 
-| Materia | Proyecto / Laboratorio Destacado | Enfoque Técnico & Algoritmos | Repositorio |
-| :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: Detección de Enfermedad Neurológica Crónica por DTI** | **CNNs (ResNet, Transfer Learning), Neuroimagen DTI/Tractografía, CRISP-DM, PyTorch** | [Ver Repositorio](./) |
-| **Analítica en Salud** | Modelos Predictivos y Análisis de Supervivencia | R, Regresión Logística, Cox Proportional Hazards | [Ver Repositorio](./) |
-| **Admin. Bases de Datos** | Tuning de Consultas y Modelado NoSQL/SQL | SQL Server, MongoDB, Indexación | [Ver Repositorio](./) |
-| **Técnicas Avanzadas** | Event-Driven Streaming & Feature Store | Kafka, Real-time ETL, Python | [Ver Repositorio](./) |
-| **Analítica Financiera** | Credit Scoring y Modelado de Riesgo P&L | Scorecarding, Python, Financial ML | [Ver Repositorio](./) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [📂 Ver Repo](./) |
+| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo de Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [📂 Ver Repo](./) |
+| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización de Base de Datos | `SQL Server` `MongoDB` `Redis` | [📂 Ver Repo](./) |
+| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Real-Time Pipeline | `Kafka` `Event Streaming` `Python` | [📂 Ver Repo](./) |
+| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard de Riesgo | `Credit Scoring` `Financial ML` | [📂 Ver Repo](./) |
 
 </details>
 
