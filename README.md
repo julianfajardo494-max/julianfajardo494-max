@@ -3,6 +3,21 @@
 ### 📊 Data Scientist & Analytics Leader | Machine Learning, NLP & Data Engineering
 **Candidato a Magíster en Analítica e Inteligencia de Negocios (Universidad del Valle)** | **Ingeniero Industrial**
 
+
+
+### ⚙️ Operations & Analytics Leader | Industrial Engineering & Data Science
+**Candidato a Magíster en Analítica e Inteligencia de Negocios (Univalle) | Ingeniero Industrial**
+*Especialista en Excelencia Operacional (Lean / Six Sigma), Transformación Digital e Inteligencia de Negocios*
+
+
+### 📊 Head of Analytics & Operational Intelligence | Data Science & Engineering
+**Candidato a Magíster en Analítica e Inteligencia de Negocios (Univalle) | Ingeniero Industrial**
+*+15 años liderando Operaciones de Alta Complejidad, Transformación Digital y Ecosistemas Analíticos*
+
+### 📊 Operations & Analytics Leader | Data Science, ML & Data Engineering
+**Candidato a Magíster en Analítica e Inteligencia de Negocios (Universidad del Valle) | Ingeniero Industrial**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Planta Mepal Platform](https://img.shields.io/badge/Planta_Mepal-255784?style=for-the-badge&logo=googlechrome&logoColor=white)](https://planeacion.plantamepal.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresfajardosalcedo@gmail.com)
@@ -12,11 +27,15 @@
 
 ## 🚀 Perfil Profesional & Propuesta de Valor
 
-Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero.
+Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero. Especialista en cerrar la brecha entre la Excelencia Operacional (Lean, Six Sigma, P&L, S&OP)
 
 Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Datos** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
 
----
+
+Estratega de operaciones, analítica avanzada e ingeniería de datos con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero. Con experiencia dirigiendo operaciones masivas de hasta 400 colaboradores y plantas de alta complejidad[cite: 1], mi enfoque integra la Excelencia Operacional (Lean Manufacturing, Six Sigma, S&OP y gestión de P&L)[cite: 1] con soluciones tecnológicas de alto impacto.
+
+Mi propuesta de valor radica en la convergencia entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Datos** (ETL/ELT, Data Warehousing, SQL Server)[cite: 1] orientada a maximizar la eficiencia operativa, la rentabilidad financiera y la precisión clínica.
+
 
 ### 🌟 Pilares de Impacto & Especialización
 
