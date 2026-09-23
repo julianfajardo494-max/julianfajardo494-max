@@ -108,7 +108,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 ---
 
 <details open>
-<summary><b>01️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos</b></summary>
+<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos</b></summary>
 <br>
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
@@ -122,7 +122,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 </details>
 
 <details open>
-<summary><b>02️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones</b></summary>
+<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones</b></summary>
 <br>
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
@@ -136,7 +136,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 </details>
 
 <details open>
-<summary><b>03️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
+<summary><b>3️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
 <br>
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
