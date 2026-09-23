@@ -113,11 +113,11 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
 | :--- | :--- | :--- | :--- | :---: |
-| **Métodos Cuantitativos** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [📂 Ver Repo](./) |
-| **Inteligencia de Negocios** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [📂 Ver Repo](./) |
-| **Gestión de Datos** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Architecture Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [📂 Ver Repo](./) |
-| **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA Automatizado | `Python` `Pandas` `Seaborn` | [📂 Ver Repo](./) |
-| **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | 📑 Documento de Arquitectura | `MLOps` `Markdown` `CI/CD` | [📂 Ver Repo](./) |
+| **Métodos Cuantitativos** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [📂 ](./) |
+| **Inteligencia de Negocios** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [📂 (./) |
+| **Gestión de Datos** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Architecture Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [📂 ](./) |
+| **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA Automatizado | `Python` `Pandas` `Seaborn` | [📂 ](./) |
+| **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | 📑 Documento de Arquitectura | `MLOps` `Markdown` `CI/CD` | [📂 ](./) |
 
 </details>
 
