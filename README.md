@@ -22,7 +22,8 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
-## 🔬 Proyecto Integrador de Grado — Proyecto Real de Analítica Avanzada (Univalle)
+## 🔬 Proyecto Real de Analítica Avanzada — Tesis de Maestría (Univalle)
+
 
 ### 🧠 Detección de Enfermedad Neurológica Crónica por Neuroimagen (DTI)
 **Desarrollo de un Algoritmo de Clasificación Binaria para Sistemas de Soporte a la Decisión Clínica (CDSS)**
