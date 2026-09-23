@@ -66,7 +66,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 ├───────────────────────────────────────────────────────────────────────────────────────────┤
 │ • Gestión de megaproyectos de Transformación Digital y BPO para Bancolombia y EPS clave. │
 │ • Dirección operativa de hasta 400 profesionales en procesamiento masivo de datos.       │
-│ • Integración de ETL, SQL Server, RPA y procesamiento inteligente de documentos (KOFAX).  │
+│ • Integración de ETL, MySQL, PostgreSQL, RPA y procesamiento inteligente de documentos (KOFAX).  │
 │ • Mitigación del 99.9% de riesgos financieros por incumplimiento y SLAs sostenidos > 98%.│
 └───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -83,7 +83,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 | :--- | :--- | :--- | :---: |
 | **Métodos Cuantitativos** | Modelación Estadística y Series de Tiempo | ARIMA, Holt-Winters, Pruebas de Hipótesis (R) | [Ver Repositorio](./) |
 | **Inteligencia de Negocios** | Modelo Copo de Nieve / Estrella & Dashboards | Power BI, DAX Avanzado, Data Marts | [Ver Repositorio](./) |
-| **Gestión de Datos** | Diseño de Bodega de Datos e Ingeniería ETL | SQL Server, PostgreSQL, Normalización | [Ver Repositorio](./) |
+| **Gestión de Datos** | Diseño de Bodega de Datos e Ingeniería ETL | MySQL , PostgreSQL, Normalización | [Ver Repositorio](./) |
 | **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | Python, Pandas, NumPy, Seaborn | [Ver Repositorio](./) |
 | **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | Research, Markdown, Best Practices | [Ver Repositorio](./) |
 
