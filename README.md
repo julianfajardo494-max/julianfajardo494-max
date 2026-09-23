@@ -84,6 +84,38 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
+
+
+### 🏭 Carvajal Espacios S.A.S BIC (Mepal)
+`Feb 2022 – Presente` | **Líder de Planeación & Programación de Planta** | *Palmira - Cali, Colombia*
+
+* 🌐 **Plataforma Web de Manufactura Inteligente (`planeacion.plantamepal.com`)**:
+  - **Entregable**: Aplicación Web + Bodega de Datos en `SQL Server` + `PHP` para control maestro de producción, gestión de operarios y captura de tiempos en piso.
+  - **Impacto**: Digitalización total de planta y reducción del **70%** en tiempos de generación de informes gerenciales.
+* 📊 **Suite de Analítica Descriptiva (OEE, P&L & Mantenimiento - `planta.mepal.com.co`)**:
+  - **Entregable**: Dashboards interactivos en `Power BI` para seguimiento en tiempo real de **OEE** (Disponibilidad, Rendimiento, Calidad), control de **160+ paradas de planta**, métricas **MTTR/MTBF** y absorción de costos de planta (picos de **$1.352B COP**).
+* 🧮 **Cotizadores Automatizados B2B (Importaciones & Fletes)**:
+  - **Entregable**: Herramienta algorítmica con cálculo automático de TRM, márgenes corporativos, Incoterms y cubicaje de contenedores (20FT / 40FT).
+  - **Impacto**: Reducción del tiempo de respuesta comercial de **días a minutos**, impulsando las ventas B2B de **$11.1M a $119.2M COP**.
+* 🏷️ **Sistema Físico-Digital de Tarjeta Viajera**:
+  - **Entregable**: Sistema de trazabilidad lote a lote de piezas en piso de fabricación (WIP) y priorización dinámica de órdenes de producción.
+* 🤖 **Modelos de Machine Learning (Analítica Predictiva en Desarrollo)**:
+  - **Entregable**: Algoritmos de pronóstico de demanda, optimización de niveles de inventario de seguridad y analítica predictiva de fallas en maquinaria.
+
+---
+
+### ⚡ IQ Outsourcing S.A.S
+`Mar 2012 – Ago 2019` | **Coordinador Regional de Producción & Líder de Proceso** | *Medellín, Cali, Bucaramanga*
+
+* 🌐 **Transformación Digital & BPO a Gran Escala**: Dirección de megaproyectos de automatización y gestión documental para cuentas clave (**Bancolombia, NuevaEPS, Sanitas, TigoUne**).
+* 👥 **Liderazgo Operativo**: Dirección estratégica de equipos multidisciplinarios de hasta **400 colaboradores** en esquemas de alta disponibilidad (24/7).
+* 🔄 **Pipelines de Datos & Automatización**: Integración de pipelines de datos con `SQL Server`, `PostgreSQL`, `MySQL`, `RPA` y procesamiento inteligente de documentos (`KOFAX`).
+* 🎯 **Métricas de Impacto**: Reducción del **99.9%** en riesgos financieros por sanciones u omisiones operativas y cumplimiento sostenido de SLAs **> 98%**.
+
+---
+
+
+
 ## 📚 Portafolio de Proyectos — Maestría en Analítica e Inteligencia de Negocios
 *Universidad del Valle | 2024 – 2026*
 
@@ -139,30 +171,30 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 </details>
 
 <details open>
-<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos</b></summary>
+<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
 <br>
 
-| Materia | Proyecto & Entregable | Stack & Algoritmos | Código |
-| :--- | :--- | :--- | :---: |
-| **Métodos Cuantitativos** | **Pronóstico de Demanda**<br><sub>Modelación estadística y series temporales</sub> | `R` `TSstudio`<br>ARIMA, Holt-Winters, STL Decomposition | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-1/metodos-cuantitativos/) |
-| **Inteligencia de Negocios** | **Dashboard Gerencial de KPIs**<br><sub>Diseño de modelo estrella y métricas de negocio</sub> | `Power BI` `DAX`<br>Star Schema, Data Marts, Power Query | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-1/inteligencia-negocios/) |
-| **Gestión de Datos** | **Arquitectura Data Warehouse**<br><sub>Bodega de datos relacional y pipelines de extracción</sub> | `PostgreSQL` `SQL Server`<br>Pipelines ETL, Modelado Relacional | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-1/gestion-datos/) |
-| **Prog. para Analítica** | **Pipeline EDA Automatizado**<br><sub>Limpieza, profiling e inspección exploratoria de datos</sub> | `Python` `Pandas`<br>NumPy, Seaborn, Matplotlib | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-1/prog-analitica/) |
-| **Seminario de Analítica** | **Documento de Arquitectura Analítica**<br><sub>Diseño conceptual de MLOps y ciclo de vida de modelos</sub> | `MLOps` `CI/CD`<br>Data Governance, Model Registry | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-1/seminario-analitica/) |
+| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :---: | :--- | :--- | :--- | :---: |
+| **Inteligencia de Negocios** | **4.6 / 5.0** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Prog. para Analítica** | **4.8 / 5.0** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Gestión de Datos** | **4.3 / 5.0** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Seminario de Analítica** | **4.4 / 5.0** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Métodos Cuantitativos** | **3.9 / 5.0** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
 
 </details>
 
 <details open>
-<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones</b></summary>
+<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
 <br>
 
-| Materia | Proyecto & Entregable | Stack & Algoritmos | Código |
-| :--- | :--- | :--- | :---: |
-| **Minería de Datos** | **Predictor de Churn & Scoring**<br><sub>Clasificación supervisada e interpretabilidad de modelos</sub> | `Python` `Scikit-Learn`<br>XGBoost, Random Forest, SHAP | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-2/mineria-datos/) |
-| **PLN con Deep Learning** | **Clasificador NLP & Embeddings**<br><sub>Extracción y análisis semántico de texto</sub> | `PyTorch` `HuggingFace`<br>Transformers, BERT Fine-Tuning | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-2/nlp-deep-learning/) |
-| **Toma de Decisiones** | **Modelo de Prescripción & Optimización**<br><sub>Simulación estocástica y asignación de recursos</sub> | `Python` `SciPy`<br>Monte Carlo, Optuna, SimPy | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-2/toma-decisiones/) |
-| **Visión Computacional** | **Detector de Objetos Automatizado**<br><sub>Segmentación e inspección visual por imágenes</sub> | `PyTorch` `OpenCV`<br>YOLO, CNNs, Data Augmentation | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-2/vision-computacional/) |
-| **Ingeniería de Big Data** | **Pipeline ETL Masivo Distribuido**<br><sub>Procesamiento paralelo en cluster y almacenamiento cloud</sub> | `PySpark` `AWS S3`<br>Hadoop HDFS, Spark DataFrames | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-2/big-data/) |
+| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :---: | :--- | :--- | :--- | :---: |
+| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Trabajo Integrador I** | **4.7 / 5.0** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Toma de Decisiones** | **4.4 / 5.0** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
 
 </details>
 
@@ -170,13 +202,13 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 <summary><b>3️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
 <br>
 
-| Materia | Proyecto & Entregable | Stack & Algoritmos | Código |
-| :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: CDSS Prequirúrgico DTI**<br><sub>Detección neurológica mediante imágenes de difusión</sub> | `PyTorch` `Scikit-Learn`<br>CNNs, DTI Tensor Mapping, CRISP-DM | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-3/tesis-dti/) |
-| **Analítica en Salud** | **Scorecard de Riesgo Clínico**<br><sub>Análisis de supervivencia y pronóstico epidemiológico</sub> | `R` `Survival`<br>Cox Proportional Hazards, Logistic Reg | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-3/analitica-salud/) |
-| **Admin. Bases de Datos** | **Optimización y Tuning de DB**<br><sub>Indexación, modelado NoSQL y cacheo de alta concurrencia</sub> | `PostgreSQL` `MongoDB`<br>Redis Caching, Indexing Tuning | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-3/admin-bases-datos/) |
-| **Técnicas Avanzadas** | **Pipeline de Streaming en Tiempo Real**<br><sub>Arquitectura guiada por eventos y procesamiento continuo</sub> | `Python` `Apache Kafka`<br>Event-Driven Architecture, Producers/Consumers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-3/tecnicas-avanzadas/) |
-| **Analítica Financiera** | **Scorecard Crediticio & P&L**<br><sub>Calificación crediticia, cálculo de mora y rentabilidad</sub> | `Python` `Statsmodels`<br>Credit Scoring, WOE, IV, Financial ML | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](./semestre-3/analitica-financiera/) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización BD | `SQL Server` `MongoDB` `Redis` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Pipeline Real-Time | `Kafka` `Event Streams` `Python` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard Riesgo | `Credit Scoring` `Financial ML` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
 
 </details>
 ---
