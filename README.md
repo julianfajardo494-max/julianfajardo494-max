@@ -1,22 +1,8 @@
 # ¡Hola! Soy Julián Andrés Fajardo Salcedo 👋
 
-### 📊 Data Scientist & Analytics Leader | Machine Learning, NLP & Data Engineering
-**Candidato a Magíster en Analítica e Inteligencia de Negocios (Universidad del Valle)** | **Ingeniero Industrial**
-
-
-
-### ⚙️ Operations & Analytics Leader | Industrial Engineering & Data Science
-**Candidato a Magíster en Analítica e Inteligencia de Negocios (Univalle) | Ingeniero Industrial**
-*Especialista en Excelencia Operacional (Lean / Six Sigma), Transformación Digital e Inteligencia de Negocios*
-
-
-### 📊 Head of Analytics & Operational Intelligence | Data Science & Engineering
-**Candidato a Magíster en Analítica e Inteligencia de Negocios (Univalle) | Ingeniero Industrial**
-*+15 años liderando Operaciones de Alta Complejidad, Transformación Digital y Ecosistemas Analíticos*
-
-### 📊 Operations & Analytics Leader | Data Science, ML & Data Engineering
+### ⚙️ Head of Operations & Analytics Leader | Machine Learning, NLP & Data Engineering
 **Candidato a Magíster en Analítica e Inteligencia de Negocios (Universidad del Valle) | Ingeniero Industrial**
-
+*Especialista en Excelencia Operacional (Lean / Six Sigma), Transformación Digital e Inteligencia de Negocios*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Planta Mepal Platform](https://img.shields.io/badge/Planta_Mepal-255784?style=for-the-badge&logo=googlechrome&logoColor=white)](https://planeacion.plantamepal.com)
