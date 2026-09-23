@@ -138,35 +138,9 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 </details>
 
-
-
-<details open>
-<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **Inteligencia de Negocios** | **4.6** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Prog. para Analítica** | **4.8** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Gestión de Datos** | **4.3** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Seminario de Analítica** | **4.4** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Métodos Cuantitativos** | **3.9** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-
-</details>
-
-<details open>
-<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **PLN con Deep Learning** | **5.0⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Trabajo Integrador I** | **4.7** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Ingeniería de Datos** | **4.6** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Toma de Decisiones** | **4.4** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-| **Minería de Datos** | **4.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
-
-</details>
+`Financial ML` | [![Folder](https://img.shields.io/badge/Folder-Financial--ML-24292e?style=flat-square&logo=folder)](./Financial-ML/) |
+`Financial ML` | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](./Financial-ML/) |
+`Financial ML` | [![Explorar](https://img.shields.io/badge/-Explorar-0969da?style=flat-square&logo=github)](./Financial-ML/) |
 
 ---
 
