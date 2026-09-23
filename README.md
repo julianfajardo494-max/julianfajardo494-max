@@ -49,26 +49,26 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 ## 💼 Experiencia Destacada
 
 ```text
-┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│ CARVAJAL ESPACIOS S.A.S BIC | Líder de Planeación & Programación                          │
-│ Feb 2022 – Presente | Palmira - Cali, Colombia                                           │
-├───────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Liderazgo en la transición de Analítica Descriptiva hacia Analítica Predictiva          │
-│   mediante algoritmos de Machine Learning y modelos de optimización estocástica.          │
-│ • Desarrollo e implementación de la Bodega de Datos y plataforma web operacional         │
-│   (planeacion.plantamepal.com), integrando SQL Server y Power BI (OEE, P&L, WIP).          │
-│ • Reducción del 70% en el tiempo de generación de informes para la toma de decisiones.   │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ CARVAJAL ESPACIOS S.A.S BIC | Líder de Planeación & Programación                                 │
+│ Feb 2022 – Presente | Palmira - Cali, Colombia                                                   │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ • Liderazgo en la transición de Analítica Descriptiva hacia Analítica Predictiva                 │
+│   mediante algoritmos de Machine Learning y modelos de optimización estocástica.                 │
+│ • Desarrollo e implementación de la Bodega de Datos y plataforma web operacional                 │
+│   (planeacion.plantamepal.com), integrando SQL Server y Power BI (OEE, P&L, WIP).                │
+│ • Reducción del 70% en el tiempo de generación de informes para la toma de decisiones.           │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│ IQ OUTSOURCING S.A.S | Coordinador Regional de Producción & Líder de Proceso             │
-│ Mar 2012 – Ago 2019 | Cobertura Nacional (Medellín, Cali, Bucaramanga)                     │
-├───────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Gestión de megaproyectos de Transformación Digital y BPO para Bancolombia y EPS clave. │
-│ • Dirección operativa de hasta 400 profesionales en procesamiento masivo de datos.       │
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ IQ OUTSOURCING S.A.S | Coordinador Regional de Producción & Líder de Proceso                     │
+│ Mar 2012 – Ago 2019 | Cobertura Nacional (Medellín, Cali, Bucaramanga)                           │
+├──────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ • Gestión de megaproyectos de Transformación Digital y BPO para Bancolombia y EPS clave.         │
+│ • Dirección operativa de hasta 400 profesionales en procesamiento masivo de datos.               │
 │ • Integración de ETL, MySQL, PostgreSQL, RPA y procesamiento inteligente de documentos (KOFAX).  │
-│ • Mitigación del 99.9% de riesgos financieros por incumplimiento y SLAs sostenidos > 98%.│
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+│ • Mitigación del 99.9% de riesgos financieros por incumplimiento y SLAs sostenidos > 98%.        │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
