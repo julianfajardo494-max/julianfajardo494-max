@@ -14,7 +14,7 @@
 
 Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero.
 
-Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Dato** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
+Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Datos** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
 
 ---
 
