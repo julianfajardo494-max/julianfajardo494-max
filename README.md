@@ -22,23 +22,16 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
-## 🔬 Proyecto Integrador de Grado (Tesis de Maestría - Universidad del Valle)
+## 🔬 Proyecto Integrador de Grado (Tesis de Maestría — Universidad del Valle)
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│    TÍTULO: Desarrollo de un Algoritmo de Clasificación Binaria para la Detección                 │ 
-│    de Enfermedad Neurológica Crónica basada en Neuroimagen de Resonancia Magnética (DTI)         │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Problema: Variabilidad en el diagnóstico y planeación prequirúrgica de patologías              │
-│   neurológicas crónicas mediante inspección visual de sustancia blanca cerebral.                 │
-│ • Solución Tecnológica: Pipeline Deep Learning con Redes Neuronales Convolucionales              │
-│   (ResNet50, EfficientNet, Transfer Learning) aplicado a 560 unidades de tractografía.           │
-│ • Biomarcadores Analizados: Fracción de Anisotropía (FA), Difusividad Media (MD) y               │
-│   Radial (RD) en 8 tractos cerebrales asociados al lenguaje hablado.                             │
-│ • Metodología & Alcance: Metodología CRISP-DM para desarrollar un Sistema de Soporte             │
-│   a la Decisión Clínica (CDSS) en un centro médico del suroccidente colombiano.                  │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+> ### 🧠 Detección de Enfermedad Neurológica Crónica por Neuroimagen (DTI)
+> **Desarrollo de un Algoritmo de Clasificación Binaria para Sistemas de Soporte a la Decisión Clínica (CDSS)**
+> 
+> * 🎯 **Problema Clínico**: Alta variabilidad en el diagnóstico y planeación prequirúrgica de patologías neurológicas crónicas mediante inspección visual subjetiva de la sustancia blanca cerebral.
+> * 💡 **Solución Tecnológica**: Pipeline de **Deep Learning** con Redes Neuronales Convolucionales (`CNNs` - `ResNet50`, `EfficientNet`, `Transfer Learning`) entrenado sobre **560 unidades de tractografía**.
+> * 🔬 **Biomarcadores Analizados**: Extracción cuantitativa de Fracción de Anisotropía (`FA`), Difusividad Media (`MD`) y Radial (`RD`) en 8 tractos cerebrales clave del lenguaje hablado.
+> * 📈 **Metodología & Alcance**: Metodología **CRISP-DM** para entregar un Sistema de Soporte a la Decisión Clínica (**CDSS**) validado para un centro médico del suroccidente colombiano.
+
 ---
 
 ## 🛠️ Stack Tecnológico & Especialidades
@@ -70,28 +63,22 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ## 💼 Experiencia Destacada
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ CARVAJAL ESPACIOS S.A.S BIC | Líder de Planeación & Programación                                 │
-│ Feb 2022 – Presente | Palmira - Cali, Colombia                                                   │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Liderazgo en la transición de Analítica Descriptiva hacia Analítica Predictiva                 │
-│   mediante algoritmos de Machine Learning y modelos de optimización estocástica.                 │
-│ • Desarrollo e implementación de la Bodega de Datos y plataforma web operacional                 │
-│   (planeacion.plantamepal.com), integrando SQL Server y Power BI (OEE, P&L, WIP).                │
-│ • Reducción del 70% en el tiempo de generación de informes para la toma de decisiones.           │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
+### 🏭 Carvajal Espacios S.A.S BIC (Mepal)
+`Feb 2022 – Presente` | **Líder de Planeación & Programación de Planta** | *Palmira - Cali, Colombia*
 
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ IQ OUTSOURCING S.A.S | Coordinador Regional de Producción & Líder de Proceso                     │
-│ Mar 2012 – Ago 2019 | Cobertura Nacional (Medellín, Cali, Bucaramanga)                           │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Gestión de megaproyectos de Transformación Digital y BPO para Bancolombia y EPS clave.         │
-│ • Dirección operativa de hasta 400 profesionales en procesamiento masivo de datos.               │
-│ • Integración de ETL, MySQL, PostgreSQL, RPA y procesamiento inteligente de documentos (KOFAX).  │
-│ • Mitigación del 99.9% de riesgos financieros por incumplimiento y SLAs sostenidos > 98%.        │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+* 🚀 **Analítica Predictiva**: Liderazgo en la transición de analítica descriptiva a modelos de **Machine Learning** y optimización estocástica para pronóstico de demanda e inventarios.
+* 🗄️ **Bodega de Datos & Plataforma Web**: Diseño e implementación de la Bodega de Datos de planta y desarrollo de la plataforma operacional [`planeacion.plantamepal.com`](https://planeacion.plantamepal.com) (`SQL Server` + `Power BI`) para control de P&L, OEE y trazabilidad WIP.
+* ⚡ **Eficiencia Operativa**: Reducción del **70%** en el tiempo de generación de informes para la toma de decisiones gerenciales.
+
+---
+
+### ⚡ IQ Outsourcing S.A.S
+`Mar 2012 – Ago 2019` | **Coordinador Regional de Producción & Líder de Proceso** | *Medellín, Cali, Bucaramanga*
+
+* 🌐 **Transformación Digital & BPO a Gran Escala**: Dirección de megaproyectos de automatización y gestión documental para cuentas clave (**Bancolombia, NuevaEPS, Sanitas, TigoUne**).
+* 👥 **Liderazgo Operativo**: Dirección estratégica de equipos multidisciplinarios de hasta **400 colaboradores** en esquemas de alta disponibilidad (24/7).
+* 🔄 **Pipelines de Datos & Automatización**: Integración de pipelines de datos con `SQL Server`, `PostgreSQL`, `MySQL`, `RPA` y procesamiento inteligente de documentos (`KOFAX`).
+* 🎯 **Métricas de Impacto**: Reducción del **99.9%** en riesgos financieros por sanciones u omisiones operativas y cumplimiento sostenido de SLAs **> 98%**.
 
 ---
 
