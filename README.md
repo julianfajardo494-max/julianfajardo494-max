@@ -95,7 +95,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 ---
 
-## 📚 Portafolio Incremental — Maestría en Analítica e Inteligencia de Negocios
+## 📚 Portafolio de Proyectos  — Maestría en Analítica e Inteligencia de Negocios
 *Universidad del Valle (2024 – 2026)*
 
 <details open>
