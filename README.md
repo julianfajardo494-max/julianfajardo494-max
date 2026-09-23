@@ -12,21 +12,9 @@
 
 ## 🚀 Perfil Profesional & Propuesta de Valor
 
-Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la **transformación digital, la automatización inteligente y la toma de decisiones basada en datos** en sectores de **Salud, Manufactura B2B, BPO/Tecnología y Financiero**.
-
-Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanzada (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística)** y una sólida arquitectura de **Ingeniería de Datos (ETL/ELT, Bodegas de Datos, SQL Server)** orientada al impacto de negocio y clínico:
-
-- 🏆 **Rendimiento Académico Sobresaliente:** Promedio acumulado de **4.5 / 5.0** (Semestre I: **4.5** | Semestre II: **4.5**) en la Maestría en Analítica e Inteligencia de Negocios — Universidad del Valle. Destacado con **Calificación Perfecta (5.0 / 5.0)** en *Procesamiento del Lenguaje Natural con Deep Learning*, **4.8 / 5.0** en *Introducción a la Programación para Analítica*, **4.7 / 5.0** en *Trabajo Integrador* y **4.6 / 5.0** en *Ingeniería de Datos*.
-- 🧠 **Machine Learning, Deep Learning & Neuroimagen (Tesis de Maestría)**: Desarrollador e investigador principal de un **algoritmo de clasificación binaria basado en Redes Neuronales Convolucionales (CNNs - ResNet, Transfer Learning)** para la detección de Enfermedad Neurológica Crónica mediante imágenes de **Resonancia Magnética con Tensores de Difusión (DTI/Tractografía)**. Especialista en la extracción de biomarcadores microestructurales (Fracción de Anisotropía, Difusividad Media/Radial) en tractos del lenguaje hablado para sistemas de soporte a la decisión clínica (CDSS).
-- 🏬 **Actualmente en Carvajal Espacios S.A.S BIC (Mepal)**: Como **Líder de Planeación**, diseñé e implementé la plataforma digital de planta (`planeacion.plantamepal.com`), desplegando infraestructura de **Analítica Descriptiva** (OEE, P&L, trazabilidad WIP en Power BI y SQL Server) con una reducción del **70%** en tiempos de reporte. Actualmente lidero la **implementación de modelos predictivos y de Machine Learning** para optimización de inventarios, pronóstico de demanda y comportamiento operacional.
-- ⚡ **Experiencia en IQ Outsourcing S.A.S**: Como **Coordinador Regional de Producción y Líder de Proceso**, administré proyectos a gran escala de **Transformación Digital y BPO** para cuentas de alto volumen (Bancolombia, NuevaEPS, Sanitas, TigoUne). Dirigí equipos de hasta **400 colaboradores**, integrando pipelines de datos con MySQL y PostgreSQL, automatización RPA y KOFAX, reduciendo los riesgos de multas operativas en un **99.9%** y asegurando SLAs superiores al **98%**.
-
----
-
-
 Estratega de analítica avanzada, ingeniería de datos y operaciones con más de 15 años de trayectoria liderando la transformación digital, la automatización inteligente y la toma de decisiones basada en datos en sectores de Salud, Manufactura B2B, BPO/Tecnología y Financiero.
 
-Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Arquitectura de Datos** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
+Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Datos Avanzada** (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística) y una sólida **Ingeniería de Dato** (ETL/ELT, Data Warehousing, SQL Server) enfocada en maximizar el impacto operativo, financiero y clínico.
 
 ---
 
@@ -36,7 +24,7 @@ Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Dat
   Promedio acumulado de **4.46 / 5.0** (Sem. I: 4.36 · Sem. II: 4.54) en la *Maestría en Analítica e Inteligencia de Negocios (Universidad del Valle)*.  
   - 🥇 **5.0 / 5.0** — Procesamiento del Lenguaje Natural con Deep Learning  
   - 🥈 **4.8 / 5.0** — Introducción a la Programación para Analítica  
-  - 🥉 **4.7 / 5.0** — Trabajo Integrador | **4.6 / 5.0** — Ingeniería de Datos  
+  - 🥉 **4.6 / 5.0** — Ingeniería de Datos  
 
 * 🧠 **Machine Learning, Deep Learning & Neuroimagen (Tesis de Maestría):**  
   Investigador y desarrollador principal de un pipeline de clasificación binaria basado en **CNNs (ResNet, Transfer Learning)** para la detección de Enfermedad Neurológica Crónica mediante **Resonancia Magnética con Tensores de Difusión (DTI/Tractografía)**. Especialista en la extracción y modelado de biomarcadores microestructurales (*Fracción de Anisotropía, Difusividad Media/Radial*) en tractos del lenguaje para Sistemas de Soporte a la Decisión Clínica (**CDSS**).
