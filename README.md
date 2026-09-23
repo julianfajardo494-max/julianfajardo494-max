@@ -16,6 +16,7 @@ Estratega de analítica avanzada, ingeniería de datos y operaciones con más de
 
 Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanzada (Machine Learning, Deep Learning, Neuroimagen/HealthTech, PLN y Estadística)** y una sólida arquitectura de **Ingeniería de Datos (ETL/ELT, Bodegas de Datos, SQL Server)** orientada al impacto de negocio y clínico:
 
+- 🏆 **Rendimiento Académico Sobresaliente**: Promedio acumulado de **4.46 / 5.0** (Semestre I: **4.36** | Semestre II: **4.54**) en la Maestría en Analítica e Inteligencia de Negocios, destacándome con **Calificación Perfecta (5.0 / 5.0)** en *PLN con Deep Learning*, **4.8 / 5.0** en *Programación para Analítica* y **4.7 / 5.0** en *Trabajo Integrador*
 - 🧠 **Machine Learning, Deep Learning & Neuroimagen (Tesis de Maestría)**: Desarrollador e investigador principal de un **algoritmo de clasificación binaria basado en Redes Neuronales Convolucionales (CNNs - ResNet, Transfer Learning)** para la detección de Enfermedad Neurológica Crónica mediante imágenes de **Resonancia Magnética con Tensores de Difusión (DTI/Tractografía)**. Especialista en la extracción de biomarcadores microestructurales (Fracción de Anisotropía, Difusividad Media/Radial) en tractos del lenguaje hablado para sistemas de soporte a la decisión clínica (CDSS).
 - 🏬 **Actualmente en Carvajal Espacios S.A.S BIC (Mepal)**: Como **Líder de Planeación**, diseñé e implementé la plataforma digital de planta (`planeacion.plantamepal.com`), desplegando infraestructura de **Analítica Descriptiva** (OEE, P&L, trazabilidad WIP en Power BI y SQL Server) con una reducción del **70%** en tiempos de reporte. Actualmente lidero la **implementación de modelos predictivos y de Machine Learning** para optimización de inventarios, pronóstico de demanda y comportamiento operacional.
 - ⚡ **Experiencia en IQ Outsourcing S.A.S**: Como **Coordinador Regional de Producción y Líder de Proceso**, administré proyectos a gran escala de **Transformación Digital y BPO** para cuentas de alto volumen (Bancolombia, NuevaEPS, Sanitas, TigoUne). Dirigí equipos de hasta **400 colaboradores**, integrando pipelines de datos con MySQL y PostgreSQL, automatización RPA y KOFAX, reduciendo los riesgos de multas operativas en un **99.9%** y asegurando SLAs superiores al **98%**.
@@ -134,6 +135,36 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 | **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización de Base de Datos | `SQL Server` `MongoDB` `Redis` | [📂 ](./) |
 | **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Real-Time Pipeline | `Kafka` `Event Streaming` `Python` | [📂 ](./) |
 | **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard de Riesgo | `Credit Scoring` `Financial ML` | [📂 ](./) |
+
+</details>
+
+
+
+<details open>
+<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
+<br>
+
+| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :---: | :--- | :--- | :--- | :---: |
+| **Inteligencia de Negocios** | **4.6 / 5.0** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Prog. para Analítica** | **4.8 / 5.0** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Gestión de Datos** | **4.3 / 5.0** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Seminario de Analítica** | **4.4 / 5.0** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Métodos Cuantitativos** | **3.9 / 5.0** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+
+</details>
+
+<details open>
+<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
+<br>
+
+| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :---: | :--- | :--- | :--- | :---: |
+| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Trabajo Integrador I** | **4.7 / 5.0** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Toma de Decisiones** | **4.4 / 5.0** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
+| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./) |
 
 </details>
 
