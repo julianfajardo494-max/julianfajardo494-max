@@ -24,7 +24,8 @@ Mi propuesta de valor radica en el puente estratégico entre la **Ciencia de Dat
   Promedio acumulado de **4.46 / 5.0** (Sem. I: 4.36 · Sem. II: 4.54) en la *Maestría en Analítica e Inteligencia de Negocios (Universidad del Valle)*.  
   - 🥇 **5.0 / 5.0** — Procesamiento del Lenguaje Natural con Deep Learning  
   - 🥈 **4.8 / 5.0** — Introducción a la Programación para Analítica  
-  - 🥉 **4.6 / 5.0** — Ingeniería de Datos  
+  - 🥉 4.7 / 5.0 — Trabajo Integrador
+  - 🔹 4.6 / 5.0 — Ingeniería de Datos
 
 * 🧠 **Machine Learning, Deep Learning & Neuroimagen (Tesis de Maestría):**  
   Investigador y desarrollador principal de un pipeline de clasificación binaria basado en **CNNs (ResNet, Transfer Learning)** para la detección de Enfermedad Neurológica Crónica mediante **Resonancia Magnética con Tensores de Difusión (DTI/Tractografía)**. Especialista en la extracción y modelado de biomarcadores microestructurales (*Fracción de Anisotropía, Difusividad Media/Radial*) en tractos del lenguaje para Sistemas de Soporte a la Decisión Clínica (**CDSS**).
