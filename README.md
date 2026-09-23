@@ -168,59 +168,6 @@ Mi propuesta de valor radica en la convergencia entre la **Ciencia de Datos Avan
 
 
 
-> 💡 **Navegación por Dominios & Especialidades**: Explora cada proyecto clasificado por área de solución, entregable técnico y acceso directo al código fuente.
-
----
-
-### 🌟 Proyecto Destacado de Grado (Tesis)
-| Proyecto | Descripción & Algoritmos | Calificación | Entregable / Impacto | Código |
-| :--- | :--- | :---: | :--- | :---: |
-| 🎓 **Tesis de Maestría** | **Detección de Enfermedad Neurológica Crónica por DTI**<br>`CNNs` `ResNet50` `Transfer Learning` `DTI` `Tractografía` `CRISP-DM` | **4.7 / 5.0** | 🏥 **CDSS Clínico**<br>*(Soporte a Decisión)* | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/01-Deep-Learning-HealthTech-Tesis/) |
-
----
-
-<details open>
-<summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **Prog. para Analítica** | **4.8 / 5.0** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/06-BI-Data-Governance-MLOps/) |
-| **Inteligencia de Negocios** | **4.6 / 5.0** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/06-BI-Data-Governance-MLOps/) |
-| **Seminario de Analítica** | **4.4 / 5.0** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/06-BI-Data-Governance-MLOps/) |
-| **Gestión de Datos** | **4.3 / 5.0** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/03-Data-Engineering-BigData/) |
-| **Métodos Cuantitativos** | **3.9 / 5.0** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/05-Prescriptive-Analytics-Optimization/) |
-
-</details>
-
-<details open>
-<summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
-<br>
-
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/02-NLP-LLM-Text-Analytics/) |
-| **Trabajo Integrador I** | **4.7 / 5.0** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/01-Deep-Learning-HealthTech-Tesis/) |
-| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/03-Data-Engineering-BigData/) |
-| **Toma de Decisiones** | **4.4 / 5.0** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/05-Prescriptive-Analytics-Optimization/) |
-| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/04-Machine-Learning-Predictive-Analytics/) |
-
-</details>
-
-<details open>
-<summary><b>3️⃣ Semestre 3 — Especialización Sectorial & Aplicación de Negocio</b></summary>
-<br>
-
-| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/01-Deep-Learning-HealthTech-Tesis/) |
-| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/04-Machine-Learning-Predictive-Analytics/) |
-| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización BD | `SQL Server` `MongoDB` `Redis` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/06-BI-Data-Governance-MLOps/) |
-| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Pipeline Real-Time | `Kafka` `Event Streams` `Python` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/03-Data-Engineering-BigData/) |
-| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard Riesgo | `Credit Scoring` `Financial ML` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](./Maestria-Analitica-BI/07-Financial-Analytics-Credit-Scoring/) |
-
-</details>
-
 ---
 
 ## 📬 Contacto Profesional
