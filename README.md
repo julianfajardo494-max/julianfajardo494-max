@@ -114,7 +114,7 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
 | :--- | :--- | :--- | :--- | :---: |
 | **Métodos Cuantitativos** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [📂 ](./) |
-| **Inteligencia de Negocios** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [📂 (./) |
+| **Inteligencia de Negocios** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [📂 ](./) |
 | **Gestión de Datos** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Architecture Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [📂 ](./) |
 | **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA Automatizado | `Python` `Pandas` `Seaborn` | [📂 ](./) |
 | **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | 📑 Documento de Arquitectura | `MLOps` `Markdown` `CI/CD` | [📂 ](./) |
@@ -127,11 +127,11 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
 | :--- | :--- | :--- | :--- | :---: |
-| **Minería de Datos** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [📂 Ver Repo](./) |
-| **PLN con Deep Learning** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [📂 Ver Repo](./) |
-| **Toma de Decisiones** | Optimización bajo Incertidumbre | 🎯 Modelo de Prescripción | `Montecarlo` `Optuna` `SciPy` | [📂 Ver Repo](./) |
-| **Visión Computacional** | Inspección Automatizada de Imágenes | 👁️ Detector de Objetos | `YOLO` `CNNs` `OpenCV` | [📂 Ver Repo](./) |
-| **Ingeniería de Big Data** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [📂 Ver Repo](./) |
+| **Minería de Datos** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [📂 ](./) |
+| **PLN con Deep Learning** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [📂 ](./) |
+| **Toma de Decisiones** | Optimización bajo Incertidumbre | 🎯 Modelo de Prescripción | `Montecarlo` `Optuna` `SciPy` | [📂 ](./) |
+| **Visión Computacional** | Inspección Automatizada de Imágenes | 👁️ Detector de Objetos | `YOLO` `CNNs` `OpenCV` | [📂 ](./) |
+| **Ingeniería de Big Data** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [📂 ](./) |
 
 </details>
 
@@ -141,11 +141,11 @@ Mi valor diferencial radica en la convergencia entre la **Ciencia de Datos Avanz
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
 | :--- | :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [📂 Ver Repo](./) |
-| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo de Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [📂 Ver Repo](./) |
-| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización de Base de Datos | `SQL Server` `MongoDB` `Redis` | [📂 Ver Repo](./) |
-| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Real-Time Pipeline | `Kafka` `Event Streaming` `Python` | [📂 Ver Repo](./) |
-| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard de Riesgo | `Credit Scoring` `Financial ML` | [📂 Ver Repo](./) |
+| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [📂 ](./) |
+| **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo de Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [📂 ](./) |
+| **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización de Base de Datos | `SQL Server` `MongoDB` `Redis` | [📂 ](./) |
+| **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Real-Time Pipeline | `Kafka` `Event Streaming` `Python` | [📂 ](./) |
+| **Analítica Financiera** | Credit Scoring & Evaluación P&L | 📈 Scorecard de Riesgo | `Credit Scoring` `Financial ML` | [📂 ](./) |
 
 </details>
 
