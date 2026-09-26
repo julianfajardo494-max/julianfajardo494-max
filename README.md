@@ -102,8 +102,6 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 ## 📚 Portafolio de Proyectos — Maestría en Analítica e Inteligencia de Negocios
 *Universidad del Valle | 2024 – 2026* | 🏆 **Promedio Acumulado: 4.46 / 5.0**
 
-> 💡 **Navegación UX para Reclutadores**: Explora cada proyecto agrupado por semestre con sus calificaciones de desempeño, entregables tangibles, stack tecnológico y acceso directo al código fuente.
-
 ---
 
 ### 🌟 Proyecto Destacado de Grado (Tesis)
