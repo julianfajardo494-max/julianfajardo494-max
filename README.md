@@ -40,7 +40,7 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 ![Medical Imaging / DTI](https://img.shields.io/badge/Neuroimagen-DTI_|_Tractografía_|_DICOM_to_NIfTI-008080?style=flat-square)
 ![NLP / LLMs](https://img.shields.io/badge/PLN_/_LLMs-Transformers_|_BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-XGBoost_|_SHAP-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Visión Computacional](https://img.shields.io/badge/Visión_Computacional-CNNs_|_YOLO_|_OpenCV-5C3EE8?style=flat-square)
+![Visión Computacional](https://img.shields.io/badge/Visión_Computacional-CNNs_|_YOLO_|_OpenCV-5C3EE8?style=flat-square)  
 
 ### 📐 Estadística Avanzada, Métodos Cuantitativos & Toma de Decisiones
 ![Métodos Cuantitativos](https://img.shields.io/badge/Estadística_Avanzada-Series_de_Tiempo_|_Inferencia-276DC3?style=flat-square&logo=r&logoColor=white)
