@@ -158,4 +158,4 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 ## 📬 Contacto Profesional
 - **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
 - **Correo**: [andresfajardosalcedo@gmail.com](mailto:andresfajardosalcedo@gmail.com)
-- **Plataforma Operativa Mepal**: [planeacion.plantamepal.com](https://planeacion.plantamepal.com)
+
