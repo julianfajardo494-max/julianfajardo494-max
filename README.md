@@ -115,13 +115,13 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 <summary><b>1️⃣ Semestre 1 — Fundamentos, Métodos Cuantitativos & Gestión de Datos (Promedio: 4.36 / 5.0)</b></summary>
 <br>
 
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **Inteligencia de Negocios** | **4.6 / 5.0** | Modelo Estrella & Dashboards Gerenciales | 📊 Dashboard de KPIs | `Power BI` `DAX` `Data Marts` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Prog. para Analítica** | **4.8 / 5.0** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Gestión de Datos** | **4.3 / 5.0** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Seminario de Analítica** | **4.4 / 5.0** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Métodos Cuantitativos** | **3.9 / 5.0** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **Inteligencia de Negocios** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Modelo Estrella & Dashboards Gerenciales &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 📊 Dashboard de KPIs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `Power BI` `DAX` `Data Marts` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Prog. para Analítica** | Pipeline para Análisis Exploratorio (EDA) | 🐍 Pipeline EDA | `Python` `Pandas` `Seaborn` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Gestión de Datos** | Diseño de Bodega de Datos & Pipelines ETL | 🗄️ Data Warehouse | `SQL Server` `PostgreSQL` `ETL` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Seminario de Analítica** | MLOps y Arquitecturas Analíticas Modernas | 📑 Doc. Arquitectura | `MLOps` `Markdown` `CI/CD` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Métodos Cuantitativos** | Modelación Estadística & Series de Tiempo | 📈 Pronóstico de Demanda | `ARIMA` `Holt-Winters` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
 
 </details>
 
@@ -129,13 +129,13 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 <summary><b>2️⃣ Semestre 2 — Machine Learning, PLN, Visión & Toma de Decisiones (Promedio: 4.54 / 5.0)</b></summary>
 <br>
 
-| Materia | Nota | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| **PLN con Deep Learning** | **5.0 / 5.0 ⭐** | Extracción & Clasificación de Texto | 🗣️ NLP Classifier / LLM | `Transformers` `BERT` `PyTorch` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Trabajo Integrador I** | **4.7 / 5.0** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Ingeniería de Datos** | **4.6 / 5.0** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Toma de Decisiones** | **4.4 / 5.0** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
-| **Minería de Datos** | **4.0 / 5.0** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
+| :--- | :--- | :--- | :--- | :---: |
+| **PLN con Deep Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Extracción & Clasificación de Texto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🗣️ NLP Classifier / LLM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `Transformers` `BERT` `PyTorch` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Trabajo Integrador I** | Avance de Tesis: Detección Neurológica | 🧠 Algoritmo CNN | `CNNs` `ResNet` `DTI` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Ingeniería de Datos** | ETL Masivo Distribuido en Cluster | ⚡ Pipeline PySpark | `PySpark` `Hadoop` `AWS S3` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Toma de Decisiones** | Optimización bajo Incertidumbre | 🎯 Modelo Prescripción | `Montecarlo` `Optuna` `SciPy` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Minería de Datos** | Predictor de Churn y Clasificación | 🧠 Modelo Predictive ML | `XGBoost` `Random Forest` `SHAP` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
 
 </details>
 
@@ -145,7 +145,7 @@ Mi valor diferencial radica en la convergencia única entre la **Excelencia Oper
 
 | Materia | Proyecto Destacado | Entregable / Impacto | Stack & Algoritmos | Código |
 | :--- | :--- | :--- | :--- | :---: |
-| **Trabajo Integrador II** | 🎓 **Tesis: Detección Neurológica DTI** | 🏥 CDSS Prequirúrgico | `PyTorch` `CNNs` `DTI` `CRISP-DM` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
+| **Trabajo Integrador II** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🎓 **Tesis: Detección Neurológica DTI** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🏥 CDSS Prequirúrgico &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | `PyTorch` `CNNs` `DTI` `CRISP-DM` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
 | **Analítica en Salud** | Análisis de Supervivencia y Riesgo | 🏥 Modelo Riesgo Clínico | `Cox Model` `Logistic Reg` `R` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
 | **Admin. Bases de Datos** | Tuning NoSQL/SQL para Alto Tráfico | ⚡ Optimización BD | `SQL Server` `MongoDB` `Redis` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
 | **Técnicas Avanzadas** | Event-Driven Streaming Architecture | 🔄 Pipeline Real-Time | `Kafka` `Event Streams` `Python` | [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/julianfajardo494-max/Maestria-Analitica-BI) |
